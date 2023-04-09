@@ -1,0 +1,2 @@
+pyrogram==1.2.9
+loguru==0.5.3
